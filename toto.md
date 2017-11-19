@@ -1,2 +1,0 @@
-- [ ] Normaliser les inputs
-- [X] Test 

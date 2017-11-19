@@ -1,0 +1,2 @@
+- [ ] Normalize inputs 
+- [ ] Separate the memory in a list where each element is a memory for a particular action
